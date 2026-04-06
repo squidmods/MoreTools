@@ -1,6 +1,13 @@
 {
-  "profile": {
-    "BannerID": "",
-    "InterstitialID": ""
-  }
+  "BannerID": "ca-app-pub-7497468228437677/1049962484",
+  "InterstitialID": "ca-app-pub-7497468228437677/8736880811",
+  "RewardAds": "ca-app-pub-7497468228437677/9815198920",
+  "AppOpen": "ca-app-pub-7497468228437677/1389185047",
+  "BannerEnabled": true,
+  "InterstitialEnabled": true,
+  "RewardEnabled": true,
+  "AppOpenEnabled": true,
+  "InterstitialCooldownSeconds": 0,
+  "RewardCooldownSeconds": 0,
+  "AppOpenCooldownSeconds": 0
 }
